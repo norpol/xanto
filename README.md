@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Xanto Lojban for Elephant
 =========================
 
@@ -21,9 +20,3 @@ Xanto is a protective [sunshade](https://en.wikipedia.org/wiki/Sunshade) for lap
    - [Nylon](http://www.ahh.biz/fabric/specialized/metallic_mirror_finish_nylon_ripstop.php)
    - "Spiegelsonnenschutzfolie" -- [Amazon](http://www.amazon.de/dp/B004Q90SV2)
    - [Anodizing](https://en.wikipedia.org/wiki/Anodizing)
-=======
-xanto
-=====
-
-Sunshade for laptops
->>>>>>> 33cb63a3d6584d959c51ca739bfadb16afbccc41
