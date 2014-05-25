@@ -1,9 +1,9 @@
-Xanto Lojban for Elephant
-=========================
+Xanto
+=====
 
 #What?
 Xanto is a protective [sunshade](https://en.wikipedia.org/wiki/Sunshade) for laptops.
-
+PS: Xanto means elephant in lojban
 
 #Properties
 
