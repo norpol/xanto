@@ -20,3 +20,4 @@ PS: Xanto means elephant in lojban
    - [Nylon](http://www.ahh.biz/fabric/specialized/metallic_mirror_finish_nylon_ripstop.php)
    - "Spiegelsonnenschutzfolie" -- [Amazon](http://www.amazon.de/dp/B004Q90SV2)
    - [Anodizing](https://en.wikipedia.org/wiki/Anodizing)
+   - [Innenrollos](http://www.wolfsonnenschutz.at/innenrollos.html)
