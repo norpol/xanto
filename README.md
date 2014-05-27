@@ -12,6 +12,7 @@ PS: Xanto means elephant in lojban
   - Fluids
   - [Telescope Arms](https://en.wikipedia.org/wiki/Telescopic_cylinder)
   - Air pressure -- [Pneumatic Cylinders](https://en.wikipedia.org/wiki/Pneumatic_cylinder)
+  - Silicone Pressure -- [MIT](http://tangible.media.mit.edu/project/pneui-pneumatically-driven-soft-composite-material/)
 * Reflective
   - Aluminium Oxide -- [Properties](http://webbook.nist.gov/cgi/cbook.cgi?ID=C1344281&Type=THZ-IR-SPEC&Index=0)
    - Pulver? -- [4€/KG](http://www.ebay.at/itm/SANDSTRAHL-PULVER-SANDSTRAHLGUT-SAND-STRAHL-PULVER-ALUMINIUM-OXID-SANDSTRAHLER-/360548889399?pt=DE_Baby_Kind_Baby_T%C3%BCr_Treppenschutz&hash=item53f2637337)
