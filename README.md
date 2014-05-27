@@ -1,11 +1,11 @@
 Xanto
 =====
 
-#What?
+##What?
 Xanto is a protective [sunshade](https://en.wikipedia.org/wiki/Sunshade) for laptops.
 PS: Xanto means elephant in lojban
 
-#Properties
+##Properties
 
 * Unfoldable
   - [Microfluids](https://en.wikipedia.org/wiki/Microfluidics)
